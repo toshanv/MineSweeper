@@ -62,7 +62,7 @@ $ cd MineSweeper
 $ python3 -m venv minesweepervenv
 ```
 
-### 3. Activate Virtual Environemnt (Do this everytime)
+### 3. Activate Virtual Environment (Do this everytime)
 ```bash
 source minesweepervenv/bin/activate
 ```
