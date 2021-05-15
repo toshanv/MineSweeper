@@ -48,7 +48,7 @@ $ python3 main.py --agent basic --dim 25 --bomb_count 20
 ## Development
 ### 1. Clone Repository (Do this once)
 ```bash
-$ git clone https://github.com/reaganmcf/MineSweeper
+$ git clone https://github.com/toshanv/MineSweeper
 $ cd MineSweeper
 ```
 
